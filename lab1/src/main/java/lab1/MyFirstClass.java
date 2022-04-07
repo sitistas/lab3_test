@@ -7,7 +7,7 @@ public class MyFirstClass {
 
 		PersonLab p = new PersonLab();
 		p.setFirstName("TestA");
-		System.out.println("hello " + p.getFirstName());
+		System.out.println("Hello " + p.getFirstName());
 
 		for (int i = 0; i < 3; i++) {
 			
